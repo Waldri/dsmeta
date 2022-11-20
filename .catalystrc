@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1151000000003146",
+      "name": "DsMeta",
+      "domain": {
+        "id": "30006293193",
+        "name": "dsmeta-20084372272.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "20084372272",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
